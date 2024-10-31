@@ -7,7 +7,9 @@ The Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv dataset is part of the CICI
 
 The specific file focuses on a DDoS attack scenario that occurred on a Friday afternoon during regular working hours. It contains labeled features extracted from the captured network traffic.
 
-You can access the dataset at this link: https://www.unb.ca/cic/datasets/index.html.
+You can access the dataset at this link: https://www.unb.ca/cic/datasets/index.html. A .csv file with 10% data content is available in the repository
+
+
 
 Key Features in the Dataset
 Flow ID: Unique identifier for each network flow.
